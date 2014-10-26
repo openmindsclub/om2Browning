@@ -10,4 +10,4 @@ cat chap2.md >> README.md
 echo "" >> README.md
 echo "" >> README.md
 
-
+cp README.md /mnt/0/mdreader
