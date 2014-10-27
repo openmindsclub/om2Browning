@@ -27,16 +27,15 @@ ___________________________
 
 1. Préparation
 
-
-	- **Préparer le formulaire d'inscription:**Les informations qui doivent y figurer sont:
+	- **Préparer le formulaire d'inscription:**
+	Les informations qui doivent y figurer sont:
 		- *Nom*, *prenom*, *matricule*, *année d'étude*, *filière* : nécessaire au remplissage de a fiche d'inscription à communiquer au SDACS.
 	
 		- Questions à propos de l'Open Source : étant la philosophy sur laquelle le club s'est construit, les inscrits doivent comprendre son importance. Ceci devait les pousser à faire des recherches)
-	
+		
 		-  Questions à propos du club: comme cité précedements, cette quetions devrait insiter certains à faire des recherches.
 	
-
-	- **Préparation de la COM : **
+	- **Préparation de la COM:**
 		- Preparer les affiches: Design et Impression. à noter que, pour afficher, il faut le cachet du SDACS
 	
 		- Préparation des flyers (version minimum des affiches, petit format, minimum de text, misterieuses et attirante! )
@@ -49,8 +48,7 @@ ___________________________
 		- Netoyage générale: demander l'aide de la femme de ménage si possible, mais ne pas trop l'attendre. 
 		- Plus il y'a de monde, plus fun ça sera, mais aussi, plus il y aura de gens qui discute, et moin de travaille.
 		
-	- **Préparation des équipes pour les entretiens** : 
-		-testtest
+	- **Préparation des équipes pour les entretiens**: 
 
 
 ceci est le deusième chapitre

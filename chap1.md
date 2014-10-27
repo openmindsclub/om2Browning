@@ -19,10 +19,9 @@ ___________________________
 		- *Nom*, *prenom*, *matricule*, *année d'étude*, *filière* : nécessaire au remplissage de a fiche d'inscription à communiquer au SDACS.
 	
 		- Questions à propos de l'Open Source : étant la philosophy sur laquelle le club s'est construit, les inscrits doivent comprendre son importance. Ceci devait les pousser à faire des recherches)
-	
+		
 		-  Questions à propos du club: comme cité précedements, cette quetions devrait insiter certains à faire des recherches.
 	
-
 	- **Préparation de la COM:**
 		- Preparer les affiches: Design et Impression. à noter que, pour afficher, il faut le cachet du SDACS
 	
