@@ -27,8 +27,8 @@ ___________________________
 
 1. Préparation
 
-	- **Préparer le formulaire d'inscription:**
-	Les informations qui doivent y figurer sont:
+
+	- **Préparer le formulaire d'inscription:**Les informations qui doivent y figurer sont:
 		- *Nom*, *prenom*, *matricule*, *année d'étude*, *filière* : nécessaire au remplissage de a fiche d'inscription à communiquer au SDACS.
 	
 		- Questions à propos de l'Open Source : étant la philosophy sur laquelle le club s'est construit, les inscrits doivent comprendre son importance. Ceci devait les pousser à faire des recherches)
@@ -50,6 +50,7 @@ ___________________________
 		- Plus il y'a de monde, plus fun ça sera, mais aussi, plus il y aura de gens qui discute, et moin de travaille.
 		
 	- **Préparation des équipes pour les entretiens**: 
+		-testtest
 
 
 ceci est le deusième chapitre
