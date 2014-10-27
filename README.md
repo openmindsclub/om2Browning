@@ -2,11 +2,12 @@
 
 Welcome in my book!
 
-types:
+Les troi versions:
 
-- General headlines
+- **General headlines**
 - Details
 - Explanations
+
 
 
 
