@@ -2,4 +2,10 @@
 
 Welcome in my book!
 
-Yo Yo Yo !
+Les troi versions:
+
+- **General headlines**
+- Details
+- Explanations
+
+
