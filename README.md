@@ -36,7 +36,7 @@ ___________________________
 		-  Questions à propos du club: comme cité précedements, cette quetions devrait insiter certains à faire des recherches.
 	
 
-	- **Préparation de la COM:**
+	- **Préparation de la COM : **
 		- Preparer les affiches: Design et Impression. à noter que, pour afficher, il faut le cachet du SDACS
 	
 		- Préparation des flyers (version minimum des affiches, petit format, minimum de text, misterieuses et attirante! )
@@ -49,7 +49,7 @@ ___________________________
 		- Netoyage générale: demander l'aide de la femme de ménage si possible, mais ne pas trop l'attendre. 
 		- Plus il y'a de monde, plus fun ça sera, mais aussi, plus il y aura de gens qui discute, et moin de travaille.
 		
-	- **Préparation des équipes pour les entretiens**: 
+	- **Préparation des équipes pour les entretiens** : 
 		-testtest
 
 
