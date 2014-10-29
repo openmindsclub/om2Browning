@@ -1,30 +1,3 @@
-# My Book
-
-Welcome in my book!
-
-Les troi versions:
-
-- **General headlines**
-- Details
-- Explanations
-
-
-
-
-##Sommaire
-
-* [Introduction](intro.md)
-* [Chap1: Debut d'année](chap1/README.md)
-	* [Inscriptions](chap1/inscriptions.md)
-	* [Welcome Day](chap1/welcomeday.md)
-* [Chap2: ](section2/README.md)
-	* [example 1](section2/example1.md)
-
-
-______________
-
-##Chapitre 1: Début d'année:
-
 ##Les inscriptions:
 
 Les étapes à suivre:
@@ -75,29 +48,3 @@ Les étapes à suivre:
 
 
 	
-
-
-
-
-
-##Welcome Day
-
-Préparation du welcome day
-
-1. Reservation de la salle:
-	- Salle de conférence du cyber espace
-	- Reservation une semaine à l'avance
-	- Inclure une demande d'autorisation signé par Mr Boukala
-
-2. Préparation des speaches
-	- Introduction et présentation du programme de la jounée
-	- Présentation et speech du président
-	- Ice Breaker1: Se lever et se présenter à la personne à sa droite, et à sa gauche
-	- Présentation des départements et de leurs chefs
-	- Distribution des taches
-	- Ice Breaker2: Lost in the sea
-	- Ne pas inclure les Ice Breaker dans le programme à présenter.
-	
-3. Rappel par email
- 	- Se fait au moin deux jours à l'avance
-
