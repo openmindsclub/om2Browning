@@ -14,12 +14,34 @@ Les troi versions:
 ##Sommaire
 
 * [Introduction](intro.md)
+* [Chap0: Vote du nouveau bureau executif](chap1/README.md)
+	* [Avant le vote](chap0/preVote.md)
 * [Chap1: Debut d'année](chap1/README.md)
 	* [Inscriptions](chap1/inscriptions.md)
 	* [Welcome Day](chap1/welcomeday.md)
 * [Chap2: ](section2/README.md)
 	* [example 1](section2/example1.md)
 
+
+______________
+
+##Chapitre 0: Vote du nouveau bureau:
+
+##Vote du nouveau bureau executif
+
+Les préparation pré-vote son assurées par l'ancien bureau executif.
+
+###Avant l'AG:
+
+
+###Apres l'AG et le vote du nouveau bureau.
+
+Voici les taches à accomplire avant de lancer les inscriptions:
+
+1. Préparation du materiel à réformer.
+3. Formation d'une liste de 1st Class (membres actif durant les années précédentes)
+4. Organisation d'une réunion à propos des inscriptions.
+2. Lacement dirrecte des inscriptions. 
 
 ______________
 
@@ -78,8 +100,6 @@ Les étapes à suivre:
 
 
 
-
-
 ##Welcome Day
 
 Préparation du welcome day
@@ -97,6 +117,7 @@ Préparation du welcome day
 	- Distribution des taches
 	- Ice Breaker2: Lost in the sea
 	- Ne pas inclure les Ice Breaker dans le programme à présenter.
+	- Préparation de la charte et liste à signer.
 	
 3. Rappel par email
  	- Se fait au moin deux jours à l'avance

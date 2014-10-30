@@ -16,6 +16,7 @@ Préparation du welcome day
 	- Distribution des taches
 	- Ice Breaker2: Lost in the sea
 	- Ne pas inclure les Ice Breaker dans le programme à présenter.
+	- Préparation de la charte et liste à signer.
 	
 3. Rappel par email
  	- Se fait au moin deux jours à l'avance
