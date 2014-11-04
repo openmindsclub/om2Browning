@@ -26,8 +26,7 @@ echo "______________" >> README.md
 echo "" >> README.md
 cat chap0/README.md >> README.md
 
-
-echo "\pagebreak" >> README.md
+<div style="page-break-after: always;"></div>
 ################ INIT CHAP1 ####################
 
 echo "##Chapitre 1: Début d'année:" > chap1/README.md
@@ -45,7 +44,7 @@ echo "______________" >> README.md
 echo "" >> README.md
 cat chap1/README.md >> README.md
 
-echo "\pagebreak" >> README.md
+<div style="page-break-after: always;"></div>
 ################ INIT CHAP2 ####################
 
 echo "##Chapitre 2: Formations :" > chap2/README.md
@@ -55,7 +54,6 @@ echo "______________" >> README.md
 echo "" >> README.md
 cat chap2/README.md >> README.md
 
-echo "\pagebreak" >> README.md
 ################ INIT CHAP3 ####################
 
 echo "##Chapitre 3: Evenements" > chap3/README.md
