@@ -1,13 +1,11 @@
-# My Book
+#O2MB General Headlines
 
-Welcome in my book!
+Il existe deux versions à ce documents:
 
-Les troi versions:
+- **General headlines**: Une version simple qui contient les informations général et les régles important à suivre.
+Il est absolument nécessaire de suivre toutes les insctructions mentionées.
 
-- **General headlines**
-- Details
-- Explanations
-
+- **Tips and Tricks** ceci consiste en un partage d'expériance des générations précédentes. Cette version dernière vise à parfaire le travail au club.
 
 
 
@@ -16,12 +14,13 @@ Les troi versions:
 * [Introduction](intro.md)
 * [Chap0: Vote du nouveau bureau executif](chap1/README.md)
 	* [Avant le vote](chap0/preVote.md)
+	* [Apres le vote](chap0/postVote.md)
 * [Chap1: Debut d'année](chap1/README.md)
 	* [Inscriptions](chap1/inscriptions.md)
 	* [Welcome Day](chap1/welcomeday.md)
-* [Chap2: ](section2/README.md)
-	* [example 1](section2/example1.md)
-
+* [Chap2: Formations ](chap2/README.md)
+* [Chap3: Evenements ](chap3/README.md)
+* [Chap4: Projets ](chap4/README.md)
 
 ______________
 
@@ -158,3 +157,12 @@ Préparation du welcome day
 
 4. Préparation du plan d'action 0 pour débuter les activités primaires.
 
+______________
+
+##Chapitre 2: Formations :
+______________
+
+##Chapitre 3: Evenements
+______________
+
+##Chapitre 4: Projets

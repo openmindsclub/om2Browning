@@ -1,11 +1,8 @@
-# My Book
 
-Welcome in my book!
+Il existe deux versions à ce documents:
 
-Les troi versions:
+- **General headlines**: Une version simple qui contient les informations général et les régles important à suivre.
+Il est absolument nécessaire de suivre toutes les insctructions mentionées.
 
-- **General headlines**
-- Details
-- Explanations
-
+- **Tips and Tricks**: ceci consiste en un partage d'expériance des générations précédentes. Cette version dernière vise à parfaire le travail au club.
 

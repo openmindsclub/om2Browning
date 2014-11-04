@@ -1,4 +1,6 @@
-cat intro.md > README.md
+echo "#O2MB General Headlines" > README.md
+
+cat intro.md >> README.md
 echo "" >> README.md
 echo "" >> README.md
 
@@ -41,6 +43,34 @@ echo "______________" >> README.md
 
 echo "" >> README.md
 cat chap1/README.md >> README.md
+
+################ INIT CHAP2 ####################
+
+echo "##Chapitre 2: Formations :" > chap2/README.md
+
+echo "______________" >> README.md
+
+echo "" >> README.md
+cat chap2/README.md >> README.md
+
+################ INIT CHAP3 ####################
+
+echo "##Chapitre 3: Evenements" > chap3/README.md
+
+echo "______________" >> README.md
+
+echo "" >> README.md
+cat chap3/README.md >> README.md
+
+################ INIT CHAP4 ####################
+
+echo "##Chapitre 4: Projets" > chap4/README.md
+
+echo "______________" >> README.md
+
+echo "" >> README.md
+cat chap4/README.md >> README.md
+
 
 #################################################
 
