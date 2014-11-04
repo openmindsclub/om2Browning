@@ -15,6 +15,10 @@ echo "" >> chap0/README.md
 cat chap0/preVote.md >> chap0/README.md
 echo "" >> chap0/README.md
 
+echo "" >> chap0/README.md
+cat chap0/postVote.md >> chap0/README.md
+echo "" >> chap0/README.md
+
 echo "______________" >> README.md
 
 echo "" >> README.md

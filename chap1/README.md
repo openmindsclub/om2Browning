@@ -62,6 +62,10 @@ Préparation du welcome day
 	- Reservation une semaine à l'avance
 	- Inclure une demande d'autorisation signé par Mr Boukala
 
+2. Se mettre d'accord sur la date et l'heure:
+	- Le chréno doit satisfaire le grand maximum d'adhérent (spécialement les nouveaux)
+	- Sousligner l'importance de la présence de chaque. 
+
 2. Préparation des speaches
 	- Introduction et présentation du programme de la jounée
 	- Présentation et speech du président
@@ -74,4 +78,6 @@ Préparation du welcome day
 	
 3. Rappel par email
  	- Se fait au moin deux jours à l'avance
+
+4. Préparation du plan d'action 0 pour débuter les activités primaires.
 
