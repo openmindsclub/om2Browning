@@ -6,5 +6,7 @@
 	* [Inscriptions](chap1/inscriptions.md)
 	* [Welcome Day](chap1/welcomeday.md)
 * [Chap2: Formations ](chap2/README.md)
+*	* [Formateurs](chap2/formateurs.md)
+	* [Inscrits](chap2/inscrits.md)
 * [Chap3: Evenements ](chap3/README.md)
 * [Chap4: Projets ](chap4/README.md)
