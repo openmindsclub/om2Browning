@@ -26,7 +26,6 @@ echo "______________" >> README.md
 echo "" >> README.md
 cat chap0/README.md >> README.md
 
-
 ################ INIT CHAP1 ####################
 
 echo "##Chapitre 1: Début d'année:" > chap1/README.md
