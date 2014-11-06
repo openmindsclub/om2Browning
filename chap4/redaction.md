@@ -22,6 +22,6 @@ Processus monsuel à suivre:
 5. Les résponsables de publications au sein de l'équipe de community management doivent commencer le *teasing* et préparer la publication.
  
 
-
+Aussi, des mini-articles (3-10 lignes) doivent être publié dans la section "news" du magasine cotidienements. Les rédacteurs ou l'équipe de community management peuvent s'en charger.
 
 
