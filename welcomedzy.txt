@@ -26,6 +26,7 @@ Points à aborder:
 
 	vous n avez pas le droit de deranger une personne qui bosse (pas tp td). si qlq un vous derange, ne vous laisse pas travailler ... etc, mettre une note anonyme dans la boite a remarques. ou parler dirrectement a samy. specifier les raisons
 
+<<<<<<< HEAD
 
 	Travail chez OMC. Aux events disent n'importe quoi !!!!
 
@@ -37,3 +38,6 @@ Points à aborder:
 	Don't criticise, go tell the responsible but don't talk about it !
 
 	SAY THANK YOU !
+=======
+	je suis plus ancien... critere d enciente n existe pas. meritocraci
+>>>>>>> 3ac875970e8082c2aeadb2679cc96ba8d48aa024
