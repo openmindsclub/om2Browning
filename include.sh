@@ -1,1 +1,1 @@
-cp -r . /mnt/0/mdreader
+cp -r . /mnt/0/mdreader/browning
