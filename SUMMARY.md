@@ -9,7 +9,7 @@
 	* [Inscrits](chap3/inscrits.md)
 * [Chap4: Gestion COM externe ](chap4/README.md)
 	* [Rédaction OM Mag](chap4/redaction.md)
-	* [Community Management](chap4/communitymanage.md)
+	* [Community Management](chap4/comunitymanage.md)
 	* [Sponsoring](chap4/sponsoring.md)
 * [Chap5: Gestion COM interne ](chap5/README.md)
 * [Chap6: Projets ](chap6/README.md) 
