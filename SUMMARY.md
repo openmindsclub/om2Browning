@@ -4,7 +4,7 @@
 * [Chap2: Debut d'année](chap2/README.md)
 	* [Inscriptions](chap2/inscriptions.md)
 	* [Welcome Day](chap2/welcomeday.md)
-* [Chap3: Gestion Formations ](chap3/README.md)
+* [Chap3: Gestion Formations ](cover.jpg)
 	* [Formateurs](chap3/formateurs.md)
 	* [Inscrits](chap3/inscrits.md)
 * [Chap4: Gestion COM externe ](chap4/README.md)
