@@ -1,7 +1,4 @@
 ##Chapitre 8: Administration
-------------------------------
-
-
 ###Autorisation d'accès
 
 Les autorisations d'accès se divisent en deux grande catégories:

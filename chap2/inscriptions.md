@@ -1,6 +1,4 @@
 ##Chapitre 2: Début d'année
------------------------------
-
 ##Les inscriptions:
 
 Les étapes à suivre:

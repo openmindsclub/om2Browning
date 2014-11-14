@@ -1,6 +1,4 @@
 ##Chapitre 2: Début d'année
---------------------------------
-
 ##Welcome Day
 
 Préparation du welcome day

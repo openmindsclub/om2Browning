@@ -1,6 +1,4 @@
 ##Chapitre 8: Administration
-------------------------------
-
 ###Demande de materiel
 
 Le materiel du club est fourni principalement par deus entitées:

@@ -1,6 +1,4 @@
 ##Chapitre 3: Formations 
---------------------------------
-
 ###Recrutement des formateurs:
 
 Il y a trois type de personnes qui peuvent assurer des formations au sein du club.

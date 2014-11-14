@@ -1,6 +1,4 @@
 ##Chapitre 3: Formations 
---------------------------------
-
 ###Gestion des inscrits:
 
 Tout les étudiants de l'USTHB ont le droit d'assister aux formations organisé par le club. Des formations réservés aux adhérents du club, ou memebres d'un certain départements peuvent être organisées.
