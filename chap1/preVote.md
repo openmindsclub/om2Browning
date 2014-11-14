@@ -1,9 +1,7 @@
 ##Chapitre 1: Vote du nouveau bureau
---------------------------------------------
+###Avant l'AG:
 
 Les préparation pré-vote son assurées par l'ancien bureau executif.
-
-###Avant l'AG:
 
 Le président actuel, avec l'aide de son bureau, est le premier résponsable du déroulement du vote. En cas d'absense, il doit désigner un remplaceant, et le déclarer.
 

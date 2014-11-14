@@ -1,6 +1,4 @@
 ##Chapitre 1: Vote du nouveau bureau
---------------------------------------------
-
 ###Apres l'AG et le vote du nouveau bureau.
 
 Voici les taches à accomplire avant de lancer les inscriptions:
