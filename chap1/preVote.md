@@ -1,5 +1,5 @@
 ##Chapitre 1: Vote du nouveau bureau
-###Avant l'AG:
+###Avant l'AG :
 
 Les préparations pré-vote sont assurées par l'ancien bureau exécutif.
 
