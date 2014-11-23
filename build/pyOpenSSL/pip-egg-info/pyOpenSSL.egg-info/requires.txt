@@ -1,2 +1,0 @@
-cryptography>=0.2.1
-six>=1.5.2

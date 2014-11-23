@@ -1,7 +1,0 @@
-setup.py
-tornado_systemd/__init__.py
-tornado_systemd.egg-info/PKG-INFO
-tornado_systemd.egg-info/SOURCES.txt
-tornado_systemd.egg-info/dependency_links.txt
-tornado_systemd.egg-info/requires.txt
-tornado_systemd.egg-info/top_level.txt

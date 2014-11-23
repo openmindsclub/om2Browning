@@ -43,4 +43,13 @@ Points à aborder:
 COM INTERNE JOBS:
 	- finding best organisation for activity X
 	- openerp
-	- Open Source Documentary projection	
+	- Open Source Documentary projection
+	
+
+ Let's read together the linux kernel
+
+
+
+
+
+

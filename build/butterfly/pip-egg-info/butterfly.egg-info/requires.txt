@@ -1,3 +1,0 @@
-tornado>=3.2
-pyOpenSSL
-tornado_systemd
