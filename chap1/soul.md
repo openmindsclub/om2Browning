@@ -14,10 +14,8 @@ Il est strictement interdit aux membres du bureaux de prendre part à des activi
 - Ouverture d'esprit
 - Partage
 - Charité
-- (samurai spirit)
-- Bonté
 - Détermination
-
+- ...
 
 ###Les objectifs du club:
 Par ordre décroissant d'importance:
