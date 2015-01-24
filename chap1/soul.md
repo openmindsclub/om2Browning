@@ -22,6 +22,7 @@ Par ordre décroissant d'importance:
 
 - Contribuer à l'amélioration de l'université (USTHB) en général et la vie éstudiantine en particulier (notament en dévelopant les compétences des étudiants dans tout sorte de domaine de scientifiques à socials)
 - Faire connaitre le club à **tous** (100%) les étudiant de l'université.
+- Montrer qu'une ogranisation peut fonctioner complètement sur des logiciels libres et Open Source.
 - Promouvoir la philosophy Open Source à l'USTHB et en dehor sur le téritoir national !
 - Former sur comment participer à un projet Open Source.
 - Developper des projets Open Source.
