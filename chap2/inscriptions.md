@@ -52,5 +52,3 @@ s.
 	- Communiquer le tableau des horaires des entretiens au moins trois à quatre jours avant le début des entretiens.
 	- Rester accessible par e-mail.
 
-
-	

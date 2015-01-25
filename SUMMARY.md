@@ -2,6 +2,7 @@
 	* [This is bigger than you](chap1/soul.md)
 * [Chap2: Debut d'année](chap2/README.md)
 	* [Vote du nouveau bureau executif](chap2/vote.md)
+	* [Portes ouvertes](chap2/portesouvertes.md)
 	* [Inscriptions](chap2/inscriptions.md)
 	* [Welcome Day](chap2/assemblegle.md)
 * [Chap3: Gestion Formations ](chap3/README.md)
