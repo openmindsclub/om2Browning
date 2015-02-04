@@ -8,6 +8,8 @@ Le club est le premier club/organisation au téritoir national à proumouvoir l'
 
 **Open Minds Club** est traduit literalement par *club des esprits ouverts*. Avoir l'esprit ouvert ne veut absolument pas dire être utilisateur de technologie *Open Source* et *Close Source* ! En effet, la pluspart des membres actifs du club sont simplement contre l'utilisation de ces dernières. Ils ne sont tout de même pas contre les gens qui l'utilisent ! bien au contraire, ayant l'esprit ouvert, ils les acceuillent pour leur présenter leurs convictions et les invites à discuter d'eventuelles questions ou arguments.
 
+Nous croyons que la science et la connaissance doivent être partagés avec toutes l'humanité, elles ne doivent, en aucun cas, être monopolisés par des industries ou autres organisations.
+
 Il est strictement interdit aux membres du bureaux de prendre part à des activités faisant la promotion de l'esprit **closed**. Il est aussi défendu de representer une organisation basé sur un esprit non open source pendant le durée du mandat. Être à la tête du club et prendre part à ce genre d'activitée étant totalement contradictoire.
 
 ###Les valeurs des OpenMinded:
