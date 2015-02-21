@@ -21,6 +21,7 @@
 	* [Remarques et Feedbacks](chap5/remarqfeedback.md)
 	* [Open Court](chap5/opencourt.md)
 * [Chap6: Projets ](chap6/README.md) 
+	* [Comment s'organiser](chap6/comment.md)
 * [Chap7: Évenements ](chap7/README.md)
 * [Chap8: Administration ](chap8/README.md)
 	* [Introduction](chap8/intro.md)
