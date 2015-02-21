@@ -1,4 +1,3 @@
-##Chapitre 4: COM Externe
 ###Sponsoring
 
 L'équipe de sponsoring a plusieurs taches à remplire:

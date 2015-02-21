@@ -1,4 +1,4 @@
-* [chap1: Valeurs et philosophy](chap1/README.md)
+* [chap1: Valeurs et phylosophie](chap1/README.md)
 	* [This is bigger than you](chap1/soul.md)
 * [Chap2: Debut d'année](chap2/README.md)
 	* [Vote du nouveau bureau executif](chap2/vote.md)

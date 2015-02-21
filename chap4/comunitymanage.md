@@ -1,4 +1,3 @@
-##Chapitre 4: COM Externe
 ###Community Management :
 
 L'équipe de community management gère les comptes des réseaux sociaux (Facebook, Twitter) et le compte gmail principal du club (contact@omc.org).

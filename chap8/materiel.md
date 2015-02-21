@@ -1,4 +1,3 @@
-##Chapitre 8: Administration
 ###Demande de materiel
 
 Le materiel du club est fourni principalement par deus entitées:
@@ -20,13 +19,17 @@ Une liste de besoin materiel doit être communiqué au SDACS en début d'année 
 Objet : Demande de matériel
 
 Monsieur,
-Dans l'objectif de réaliser les différents programmes envisagés par le club pour l'année 20XX/20XX et dans la prospective de mieux servir nos adhérents, nous sollicitons votre bienveillance de bien vouloir nous fournir le matériel mentionné dans la liste ci jointe.
+Dans l'objectif de réaliser les différents programmes envisagés par le
+ club pour l'année 20XX/20XX et dans la prospective de mieux servir nos
+ adhérents, nous sollicitons votre bienveillance de bien vouloir nous 
+fournir le matériel mentionné dans la liste ci jointe.
 	
-Dans l’attente d’une réponse favorable de votre part, veuillez agréer monsieur nos salutations distinguées.
+Dans l’attente d’une réponse favorable de votre part, veuillez agréer 
+monsieur nos salutations distinguées.
 
 			
 
-					 Président(e) du club
+						 Président(e) du club
 ```
 
 
@@ -44,10 +47,15 @@ Objet : Demande de [quoi?]
 
 Monsieur,
 
-Comme vous le savez, notre club organise [activité lié au materiel demmandé], et pour cela, nous avons besoin [materiel/ou réference vers une éventuelle liste jointe].
+Comme vous le savez, notre club organise [activité lié au materiel 
+demmandé], et pour cela, nous avons besoin [materiel/ou réference vers
+ une éventuelle liste jointe].
 
-Pour ce fait, nous avons l'honneur de solliciter votre haute bienveillance de bien vouloir nous fournir ce matériel pour ce sujet.
-Dans l’attente d’une réponse favorable de votre part, veuillez agréer monsieur l’expression de nos salutations distinguées.
+Pour ce fait, nous avons l'honneur de solliciter votre haute bienveillance
+ de bien vouloir nous fournir ce matériel pour ce sujet.
+
+Dans l’attente d’une réponse favorable de votre part, veuillez agréer 
+monsieur l’expression de nos salutations distinguées.
 
 							Président du club
 ```

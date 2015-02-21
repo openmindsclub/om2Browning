@@ -1,3 +1,2 @@
-###Objectifs du département de communication interne:
-
-
+##Chapitre 4: COM Externe
+###Objectids du département 

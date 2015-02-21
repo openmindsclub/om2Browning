@@ -1,4 +1,3 @@
-##Chapitre 8: Administration
 ###Autorisation d'accès
 
 Les autorisations d'accès se divisent en deux grande catégories:
@@ -15,14 +14,19 @@ En voici un template:
 			A Monsieur le directeur de la Sous direction 
 			      des Activités Culturelles et Sportives
 
-Objet : Demande d’autorisation d’accès pour [monsieur/madamme nom et prénom]
+Objet : Demande d’autorisation d’accès pour [monsieur/madamme nom et
+					     prénom]
 
 Monsieur,
-Comme vous le savez, [explications] le club organise [activité lié à le personne conserné par l'autorisation]. 
+Comme vous le savez, [explications] le club organise [activité lié à 
+le personne conserné par l'autorisation]. 
 
-Pour cela nous vous sollicitons de bien vouloir accorder une autorisation d’accès le [Date] à [nom et prénom de la personne consernée] pour [raison].
+Pour cela nous vous sollicitons de bien vouloir accorder une 
+autorisation d’accès le [Date] à [nom et prénom de la personne consernée]
+ pour [raison].
 
-Dans l’attente d’une réponse favorable de votre part veuillez agréer, monsieur, nos salutations les plus distinguées.
+Dans l’attente d’une réponse favorable de votre part veuillez agréer, 
+monsieur, nos salutations les plus distinguées.
 
 
 
