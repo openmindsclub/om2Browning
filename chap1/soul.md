@@ -20,15 +20,11 @@ Il est strictement interdit aux membres du bureaux de prendre part à des activi
 - ...
 
 ###Les objectifs du club:
-Par ordre décroissant d'importance:
 
-- Contribuer à l'amélioration de l'université (USTHB) en général et la vie éstudiantine en particulier (notament en dévelopant les compétences des étudiants dans tout sorte de domaine de scientifiques à socials)
-- Faire connaitre le club à **tous** (100%) les étudiant de l'université.
-- Montrer qu'une ogranisation peut fonctioner complètement sur des logiciels libres et Open Source.
+- N°1 : produire des *Free and Open Source Cultur Activists*.
 - Promouvoir la philosophy Open Source à l'USTHB et en dehor sur le téritoir national !
 - Former sur comment participer à un projet Open Source.
 - Developper des projets Open Source.
-- Participer à des projets Open Source à l'echel mondial
-- Se faire connaitre à l'echel mondiale
+- Participer à des projets Open Source.
 
 
