@@ -1,14 +1,3 @@
-###Introduction
-
-Il existe deux versions à ce documents:
-
-- **Browning**: Une version *Light* simple qui contient les informations général et les régles important à suivre.
-Il est absolument nécessaire de suivre toutes les insctructions mentionées.
-
-- **Brandley**: Une version *Heavy* qui contient les explications des régles figurant dans la première version. Elle consiste aussi en un partage d'expériance plus détaillé et complet des générations précédentes. Elle comportent des détails sur des situation précises.
-
-------------------------------------
-
 ###Avan propos:
 
 Ce document a été écrit à l'origine part MELAINE Samy, et HACHI Yasmine et continu à être revu par ces deux derniers.
