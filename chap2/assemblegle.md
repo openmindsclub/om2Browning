@@ -1,4 +1,4 @@
-###Open Day
+###Let's Meet
 
 Préparation de l'assemblée générale numéro 1
 

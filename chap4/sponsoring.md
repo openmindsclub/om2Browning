@@ -1,5 +1,7 @@
 ###Sponsoring
 
+[CETTE PARTIE A ÉTÉ SUPPRIMÉ CAR PEU IMPORTANTE!]
+
 L'équipe de sponsoring a plusieurs taches à remplire:
 
 - Rédiger dossier de sponsoring.

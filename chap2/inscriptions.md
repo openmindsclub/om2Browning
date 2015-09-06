@@ -18,7 +18,7 @@ Les étapes à suivre :
 		-  Questions à propos du club : comme cité précédemment, cette question devrait inciter à faire des recherches.
 	
 	- **Préparation de la COM :**
-		- Préparation du Open Day : autorisations, réservations de salles, speach, éventuellement quelque chose d'inédit.
+		- Préparation du **Let's Meet** : autorisations, réservations de salles, speach, éventuellement quelque chose d'inédit.
 		- Préparer les affiches : Design et Impression (NB : pour afficher, il faut le cachet du SDACS
 ).
 	
@@ -34,7 +34,7 @@ Les étapes à suivre :
 		
 	- **Préparation de l'équipe d'acceuil des newbies **: [checker les exemples] 
 		- Informer les ancien membres du début des inscriptions.
-		- Préparer un guide des journées acceuils.
+		- Préparer un guide des journées acceuils. (Exemple: ![Guide d'acceuil 2014/2015](https://raw.githubusercontent.com/SamyMe/om2Browning/master/chap5/guide-acceuil2014-2015.pdf "Guide d'acceuil 2014/2015"))
 		- Organiser une réunion pour informer les interviewers de tous les détails et décisions prises à propos des journées d'acceuils.
 		- Dresser un tableau des disponibilité de chacun durant la semaine au moins deux  semaines avant le début des journée acceuils.
 		- Finaliser le tableau au moins trois à quatre jours avant le début des acceuils.
@@ -43,8 +43,8 @@ Les étapes à suivre :
 2. ####Lacement de la communication :
 	- Teaser sur FB sur le début des inscriptions. Imprimer des affiches "Recruitment comming soon" (en même temps)
 .
-	- Annoncer la date de Lancement des inscriptions qui doit coïncider avec la date de l'Open Day (une semaine avant) sur les réseaux sociaux et créer un événement FB.
-	- Lancer le formulaire en ligne, à la fin de l'Open Day, et mettre des affiches partout à l'USTHB. !
+	- Annoncer la date de Lancement des inscriptions qui doit coïncider avec la date de l'**Let's Meet** (une semaine avant) sur les réseaux sociaux et créer un événement FB.
+	- Lancer le formulaire en ligne, à la fin de l'**Let's Meet**, et mettre des affiches partout à l'USTHB. !
 	- Distribution de flyers en faisant le tour de l'université.
 	- Annoncer la date de clôture des inscriptions (une semaine avant)
 .
