@@ -2,7 +2,7 @@
 
 Les étapes à suivre :
 
-1. Préparation
+1. ####Préparation
 
 	- **Préparer le formulaire d'inscription :**
 	Les informations qui doivent y figurer sont :
@@ -24,20 +24,19 @@ Les étapes à suivre :
 
 		- Préparer un événement FB pour le lancement des inscriptions.
 
-	- **Préparation du local :** à faire une semaine avant le début des entretiens (lancement des inscriptions en ligne)
+	- **Préparation du local :** à faire une semaine avant le début des acceuils (lancement des inscriptions en ligne)
 		- Nettoyage générale: demander l'aide de la femme de ménage si possible, mais ne pas trop y compter. 
 		- Plus il y a de monde, plus fun ça sera.
 		
-	- **Préparation de l'équipe des entretiens **: [checker les exemples] 
-		- Informer les ancien membres du début des inscription
-s.
-		- Préparer un guide des entretiens avec questionnaire.
-		- Organiser une réunion pour informer les interviewers de tous les détails et décisions prises à propos des entretiens.
-		- Dresser un tableau des disponibilité de chacun durant la semaine au moins deux  semaines avant le début des entretiens.
-		- Finaliser le tableau au moins trois à quatre jours avant le début des entretiens.
+	- **Préparation de l'équipe d'acceuil des newbies **: [checker les exemples] 
+		- Informer les ancien membres du début des inscriptions.
+		- Préparer un guide des acceuils avec questionnaire.
+		- Organiser une réunion pour informer les interviewers de tous les détails et décisions prises à propos des journées d'acceuils.
+		- Dresser un tableau des disponibilité de chacun durant la semaine au moins deux  semaines avant le début des acceuils.
+		- Finaliser le tableau au moins trois à quatre jours avant le début des acceuils.
 		- Arranger le local.
 
-2. Lacement de la communication :
+2. ####Lacement de la communication :
 	- Teaser sur FB sur le début des inscriptions. Imprimer des affiches "Recruitment comming soon" (en même temps)
 .
 	- Annoncer la date de Lancement des inscriptions qui doit coïncider avec la date de l'Open Day (une semaine avant) sur les réseaux sociaux et créer un événement FB.
@@ -46,8 +45,8 @@ s.
 	- Annoncer la date de clôture des inscriptions (une semaine avant)
 .
 
-3. Communication avec les inscrits et lancement des entretiens :
+3. ####Communication avec les inscrits et lancement des journées acceuils :
 	- Communiquer, au fur et à mesure, aux inscrits les détails t la procédure du recrutement.
-	- Communiquer le tableau des horaires des entretiens au moins trois à quatre jours avant le début des entretiens.
+	- Communiquer le tableau des horaires des acceuils au moins trois à quatre jours avant le début des acceuils.
 	- Rester accessible par e-mail.
 
