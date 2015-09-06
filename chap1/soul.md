@@ -1,7 +1,7 @@
 ##Chapitre 1: Valeur et phylosophie
 ###Le fondement d'Open Minds Club:
 
-**[ THIS IS BIGGER THAN YOU ! ]**
+** THIS IS BIGGER THAN YOU ! **
 
 
 Le club est le premier club/organisation au téritoir national à proumouvoir l'esprit Open Source. Il est fondé sur, **fuled by**, représentant de l'esprit Open Source !
@@ -17,7 +17,7 @@ Il est strictement interdit aux membres du bureaux de prendre part à des activi
 - Partage
 - Charité
 - Détermination
-- ...
+- Respect 
 
 ###Les objectifs du club:
 
