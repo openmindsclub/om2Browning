@@ -1,5 +1,9 @@
 ###Les inscriptions :
 
+Les inscriptions se font en ligne. Dans le meilleur des cas, prévoir un script qui génère automatiquement la carte lors de l'inscription et l'envoi par email à l'inscrit qui doit l'imprimer et la ramener avec le dossier à fournir (2 photos, photocopie pièce d'idendtitée, photo copie du certificat de scolaritée + la carte imprimée) 
+
+En suite, l'inscrit se présentera au club avec son dossier complet****  lors des journées d'acceuils où il aura le temps de discuter avec d'ancien membres.
+
 Les étapes à suivre :
 
 1. ####Préparation
