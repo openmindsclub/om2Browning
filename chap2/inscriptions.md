@@ -24,15 +24,15 @@ Les étapes à suivre :
 
 		- Préparer un événement FB pour le lancement des inscriptions.
 
-	- **Préparation du local :** à faire une semaine avant le début des acceuils (lancement des inscriptions en ligne)
+	- **Préparation du local :** à faire une semaine avant le début des journées acceuils (lancement des inscriptions en ligne)
 		- Nettoyage générale: demander l'aide de la femme de ménage si possible, mais ne pas trop y compter. 
 		- Plus il y a de monde, plus fun ça sera.
 		
 	- **Préparation de l'équipe d'acceuil des newbies **: [checker les exemples] 
 		- Informer les ancien membres du début des inscriptions.
-		- Préparer un guide des acceuils avec questionnaire.
+		- Préparer un guide des journées acceuils.
 		- Organiser une réunion pour informer les interviewers de tous les détails et décisions prises à propos des journées d'acceuils.
-		- Dresser un tableau des disponibilité de chacun durant la semaine au moins deux  semaines avant le début des acceuils.
+		- Dresser un tableau des disponibilité de chacun durant la semaine au moins deux  semaines avant le début des journée acceuils.
 		- Finaliser le tableau au moins trois à quatre jours avant le début des acceuils.
 		- Arranger le local.
 
