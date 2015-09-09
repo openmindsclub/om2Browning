@@ -1,4 +1,6 @@
 ###Assemblées générales (Meet_OMC Project)
+[Je veut pas complique le monde, on ignore cela pour l'instant]
+
 
 Le projet consiste en l'appliquation la démocracie ouverte (Open Gov), les AGs sont ouvertes au publique (Une partie peut être privée).
 Il consiste aussi à fixer des dates précise aux AGs principales de l'année.

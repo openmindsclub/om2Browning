@@ -16,7 +16,6 @@
 * [Chap5: Gestion COM interne ](chap5/README.md)
 	* [Objectifs](chap5/objectifs.md)
 	* [Planing des rencontres](chap5/rencontres.md)
-	* [Meet_OMC](chap5/meetomc.md)
 	* [Remarques et Feedbacks](chap5/remarqfeedback.md)
 	* [Open Court](chap5/opencourt.md)
 * [Chap6: Projets ](chap6/README.md) 
