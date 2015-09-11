@@ -41,5 +41,5 @@ Cordialement,
 ```
 
 
-Le template et des exemple de demande de réservation de salle sont disponibles sous format **odt** sur [ce lien](https://raw.githubusercontent.com/SamyMe/om2Browning/master/reservation.odt).
+Le template et des exemple de demande de réservation de salle sont disponibles sous format **odt** sur ces liens: [premièr](https://raw.githubusercontent.com/SamyMe/om2Browning/master/reservation1.odt)  , [deuxième](https://raw.githubusercontent.com/SamyMe/om2Browning/master/reservation2.odt).
 

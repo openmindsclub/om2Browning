@@ -25,5 +25,6 @@ Chaque adhérent résponsable (membre du bureau ou non) d'une activité est auto
 
 La communication interne est primordiale ! chaque adhérent doit bien lire le chapitre traitant du sujet (chap4) !
 
-
+####Téléchargement:
+Vous pouvez télecharger des exemples de demandes adréssés aux différents administrations sur [ce lien](https://raw.githubusercontent.com/SamyMe/om2Browning/master/odt/2014-2015-demands.tar.gz)
 
