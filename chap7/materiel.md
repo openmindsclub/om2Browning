@@ -60,5 +60,5 @@ monsieur l’expression de nos salutations distinguées.
 							Président du club
 ```
 
-Le template et des exemple de demande de réservation de salle sont disponibles sous format **odt** sur (ce lien)[].
+Le template et des exemple de demande de réservation de salle sont disponibles sous format **odt** sur [ce lien](https://raw.githubusercontent.com/SamyMe/om2Browning/master/materiel.odt).
 

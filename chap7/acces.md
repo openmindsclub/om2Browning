@@ -33,7 +33,7 @@ monsieur, nos salutations les plus distinguées.
 			           	 	      Président du club
 ```
 
-Le template ainsi que des exemples des deux types de demande d'autorisation d'accès sont téllechargable en format **odt** sur (ce lien)[].
+Le template ainsi que des exemples des deux types de demande d'autorisation d'accès sont téllechargable en format **odt** sur ces liens: [premier](https://raw.githubusercontent.com/SamyMe/om2Browning/master/odt/acces1.odt) , [deuxième](https://raw.githubusercontent.com/SamyMe/om2Browning/master/odt/acces2.odt)
 
 **NB: Avoir une autorisation d'accès pour des étrangers (nationalité non Algerienne) est une opération délicate qui doit suivre des régles plus stricte (dont, l'éventualité de contacter le ministère des affaires étrangères ou de l'enseignement supérieur)**
 
