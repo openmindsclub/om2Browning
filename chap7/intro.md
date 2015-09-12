@@ -1,4 +1,4 @@
-##Chapitre 8: Administration
+##Chapitre 7: Administration
 
 Le club peut rentrer en contacte avec différentes administrations, les pricipales en sont:
 
