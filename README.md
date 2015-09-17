@@ -11,6 +11,7 @@ Le premier chapitre contient les valeurs fondamentales du clubs, en d'autre term
 Ce livre consiste en une base solide pour chaque nouvelle génération de leader et membres du club Open Minds. Il est attendu des membres de chaque bureau de bien le lire et de bien le comprendre. Tout adhérents du club peut suggérer des modifications soit en les communiquant au président du club qui lui s'occupera de les proposer, soit en les proposant diréctement sur le dépo git à l'adresse suivante: http://github.com/samyme/om2browning.git , ou enfin, en les envoyant par email à **samy.melaine@openmindsclub.com** .
 
 
+
 ###Contributeur:
 
 - Nassima TOUMI
