@@ -1,13 +1,13 @@
 ###Demande de materiel
 
-Le materiel du club est fourni principalement par deus entitées:
+Le materiel du club est fourni principalement par deux entités:
 
-- Le SDACS: fourni tout ce qui est consomable, materiel informatiques ...etc.
+- Le SDACS: fournit tout ce qui est consommable, matériel informatique ...etc.
 
-- Le CRI: fourni tout ce qui concerne le meublage, et l'entretient du local.
+- Le CRI: fournit tout ce qui concerne le meublage, et l'entretien du local.
 
 
-Une liste de besoin materiel doit être communiqué au SDACS en début d'année (septembre/octobre). La liste doit être jointe à une demmande de la sorte:
+Une liste de besoins materiels doit être communiqué au SDACS en début d'année (septembre/octobre). La liste doit être jointe à une demmande de la sorte:
 
 
 ```
