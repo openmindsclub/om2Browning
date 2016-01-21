@@ -22,6 +22,6 @@
 	* [Comment s'organiser](chap6/README.md)
 * [Chap7: Administration ](chap7/README.md)
 	* [Introduction](chap7/README.md)
-	* [Autorisation d'acces](chap7/acces.md)
+	* [Autorisation d'accès](chap7/acces.md)
 	* [Réservation de salle](chap7/reservation.md)
 	* [Demande de matériel](chap7/materiel.md)
