@@ -1,6 +1,6 @@
 ###Community Management :
 
-L'équipe de community management gère les comptes des réseaux sociaux (Facebook, Twitter) et le compte Gmail principal du club (openmindsclub@google.com).
+L'équipe de community management gère les comptes des réseaux sociaux (Facebook, Twitter) et le compte Gmail principal du club (openmindsclub@gmail.com).
 
 - Les comptes doivent rester constamment actifs.
 - L'équipe de Community Management doit être à la disposition de tout le monde, à n'importe quel moment.
