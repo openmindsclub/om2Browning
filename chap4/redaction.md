@@ -30,6 +30,6 @@ Processus mensuel à suivre:
 
 Aussi, des mini-articles (3-10 lignes) doivent être publié dans la section "news" du magazine quotidienements. Les rédacteurs ou l'équipe de community management peuvent s'en charger.
 
-Remarque importante : Le plagiat est INACCEPTABLE, il en va de la réputation et crédibilité du magazine et donc du club, toute source devra donc être citée.
+Remarque importante : Le plagiat est **INACCEPTABLE**, il en va de la réputation et crédibilité du magazine et donc du club, toute source devra donc être citée.
 
 
