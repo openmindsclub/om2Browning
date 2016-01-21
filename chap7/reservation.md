@@ -1,19 +1,19 @@
 ###Demande de réservation de salles
 
-La demande de réservation d'une salle X est remise à la personne chargé de l'immuble auquel la salle fait partie, ou à sa secrétaire.
+La demande de réservation d'une salle X est remise à la personne chargée de l'immeuble auquel la salle est rattachée, ou à sa secrétaire.
 
-La méthode de remise de la demande et le délet de d'attente pour la réponse varient d'un résponsable à un autre.
-La pluspart demandent une lettre imprimée. Certain accepetent les emails.
-Une autorisation d'organisation de l'activitée, signé du SDACS, est parfois demandée.
+La méthode de remise de la demande et le délai d'attente pour la réponse varient d'un résponsable à un autre.
+La plupart demandent une lettre imprimée. Certains accepetent les emails.
+Une autorisation d'organisation de l'activitée, signée du SDACS, est parfois demandée.
 
-Il faut se renseigner sur le délèt de réponse, Ce dernier vari généralement entre un, deux ou trois jours, jusqu'à une semaine après la remise de la demande (peut aller au dela).
+Il faut se renseigner sur le délai de réponse, Ce dernier varie généralement entre un, deux ou trois jours, jusqu'à une semaine après la remise de la demande (peut aller au-delà).
 
 La demande doit inclure:
 
-- Le motif de réservation (activité)
-- La description de l'activitée
-- La date et l'heure de réservation
-- Le bénéfis que l'activitée aura pour les étudiants
+- Le motif de réservation (activité).
+- La description de l'activitée.
+- La date et l'heure de réservation.
+- Ce que l'activité apportera aux étudiants.
 
 Voici un template de lettre:
 
