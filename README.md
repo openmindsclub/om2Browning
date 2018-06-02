@@ -1,4 +1,4 @@
-###Avant propos:
+### Avant propos:
 
 Ce document a été écrit à l'origine par MELAINE Samy, et HACHI Yasmine et continue à être revu par ces deux derniers.
 
@@ -12,7 +12,7 @@ Ce livre consiste en une base solide pour chaque nouvelle génération de leader
 
 
 
-###Contributeurs:
+### Contributeurs:
 
 - Nassima TOUMI
 - Mounir BENDALI BRAHAM
