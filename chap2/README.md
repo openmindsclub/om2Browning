@@ -1,6 +1,6 @@
-##Chapitre 2: Début d'année
-###Vote du nouveau bureau
-####Avant l'AG :
+## Chapitre 2: Début d'année
+### Vote du nouveau bureau
+#### Avant l'AG :
 
 Les préparations pré-vote sont assurées par l'ancien bureau exécutif.
 
@@ -34,12 +34,11 @@ Le président actuel, avec l'aide de son bureau, est le premier responsable du d
 Après l'annonce des résultats, l'ancien président et le nouveau président passeront au club avec des membres du SDACS pour vérifier le matériel. 
 La passation de consigne sera, par la suite, signée par les deux présidents.
 
-####Après l'AG et le vote du nouveau bureau :
+#### Après l'AG et le vote du nouveau bureau :
 
 Voici les tâches à accomplir avant de lancer les inscriptions :
 
 1. Préparation du matériel à réformer.
-3. Formation d'une liste de 1st Class (membres actifs durant les années précédentes)
-.
+3. Formation d'une liste de 1st Class (membres actifs durant les années précédentes).
 4. Organisation d'une réunion à propos des inscriptions.
 2. Lacement direct des inscriptions. 
