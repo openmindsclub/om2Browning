@@ -1,5 +1,6 @@
-##Chapitre 3: Formations 
-###Objectifs du département des formations
+## Chapitre 3: Formations 
+
+### Objectifs du département des formations
 
 - Les formations sont la première concrétisation de l'esprit du club. C'est l'oportunité donnée aux étudiants de partager leurs connaissances dans n'importe quel domaine (litéraire, scientifique, culuturel en général ...etc).
 
