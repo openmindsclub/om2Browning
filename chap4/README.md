@@ -1,5 +1,5 @@
-##Chapitre 4: COM Externe
-###Objectifs du département 
+## Chapitre 4: COM Externe
+### Objectifs du département 
 
 - La communication externe est en d'autres termes l'image du club que ce soit vue par les étudiants (non adhérents), les professionels, enseignants ... etc
 

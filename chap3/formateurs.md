@@ -1,4 +1,4 @@
-###Recrutement des formateurs :
+### Recrutement des formateurs :
 
 Il y a trois types de personnes qui peuvent assurer des formations au sein du club : 
 - Les adhérents, qui forment une partie importante des formateurs.

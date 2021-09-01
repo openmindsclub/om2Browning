@@ -1,4 +1,4 @@
-###Planing des rassemblements:
+### Planing des rassemblements:
 
 Les meetings visent a rassembler la totalité (ou presque) des adhérents d'Open Minds Club. Ils sont divisés en deux catégories:
 
@@ -26,5 +26,3 @@ En voici quelques exemples:
 Déjeunons ensemble : pédiode: AG_2 ou AG_3
 
 Meet_OMC : période: juste avant ou après le vote. C'est une conférence de présentation du club pour les nouveaux bacheliers et autres étudiants qui ne le conaissent peut-être pas.
-
-

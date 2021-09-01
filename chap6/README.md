@@ -1,9 +1,9 @@
-##Chapitre 6: Projets
+## Chapitre 6: Projets
 
 Un projet peut désigner une grande variété d'activités. Il peut-etre technique ou non. 
 Un événement est un projet.
 
-###Organisation de l'équipe:
+### Organisation de l'équipe:
 Chaque projet a un chef qui prend la responsabilité de son bon déroulement. 
 
 Un appel à participation est lancé pour une idée jugée faisable par le bureau exécutif. Cet appel concerne tous les adhérents du club, et peut être étendu aux étudiants de l'USTHB si cela s'avère intéressant (communication externe).
@@ -18,7 +18,7 @@ L'équipe finale devra compter:
 2. Des sous-chefs pour les différentes tâches
 3. Des participants aux tâches
 
-###Inscriptions
+### Inscriptions
 
 Les inscriptions se font à l'aide d'un formulaire en ligne. Le formulaire doit contenir ce qui suit:
 
@@ -32,7 +32,7 @@ Les inscriptions se font à l'aide d'un formulaire en ligne. Le formulaire doit 
 - D'autre informations nécessaires au projet (non obligatoire)
 
 
-###Réunion 0
+### Réunion 0
 
 La date de la première réunion (ultérieure à celle du deadline d'inscriptions) doit être fixée avant la fin des inscriptions.
 
@@ -46,7 +46,7 @@ La réunion doit aborder les points suivants:
 4. Organisation des équipes: définir les chefs des différentes tâches et leurs équipes (une tâche peut n'avoir besoin que d'une seule personne)
 5. Définir des deadlines pour les différentes tâches
 
-###Communication
+### Communication
 
 - La communication s'organise autour de mailing lists hebdomadaires (impératif).
 
@@ -55,11 +55,3 @@ La réunion doit aborder les points suivants:
 - Un board Trello aide à la bonne visualisation de l'évolution du projet.
 
 - Des réunions pour faire état de l'avancement du projet doivent être organisées régulièrement.
-
-
-
-
-
-
-
-

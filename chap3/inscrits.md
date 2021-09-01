@@ -1,4 +1,4 @@
-###Gestion des inscrits :
+### Gestion des inscrits :
 
 Tous les étudiants de l'USTHB ont le droit d'assister aux formations organisées par le club. Des formations réservées aux adhérents du club, ou membres d'un certain département peuvent être organisées.
 

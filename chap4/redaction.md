@@ -1,4 +1,4 @@
-###Rédaction du OM Mag
+### Rédaction du OM Mag
 
 L'équipe du *mag* est composé de:
 

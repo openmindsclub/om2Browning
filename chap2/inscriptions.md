@@ -1,4 +1,4 @@
-###Les inscriptions :
+### Les inscriptions :
 
 Les inscriptions se font en ligne. Dans le meilleur des cas, prévoir un script qui génère automatiquement la carte lors de l'inscription et l'envoi par e-mail à l'inscrit qui doit l'imprimer et la ramener avec le dossier à fournir (2 photos, photocopie pièce d'idendtité, photocopie du certificat de scolarité + la carte imprimée) 
 
@@ -6,7 +6,7 @@ Ensuite, l'inscrit se présentera au club avec son dossier complet****  lors des
 
 Les étapes à suivre :
 
-1. ####Préparation
+1. #### Préparation
 
 	- **Préparer le formulaire d'inscription :**
 	Les informations qui doivent y figurer sont :
@@ -40,7 +40,7 @@ Les étapes à suivre :
 		- Finaliser le tableau au moins trois à quatre jours à l'avance.
 		- Arranger le local.
 
-2. ####Lancement de la communication :
+2. #### Lancement de la communication :
 	- Teaser sur FB sur le début des inscriptions. Imprimer des affiches "Recruitment comming soon" (en même temps)
 .
 	- Annoncer la date de Lancement des inscriptions qui doit coïncider avec la date du **Let's Meet** (une semaine avant) sur les réseaux sociaux et créer un événement FB.
@@ -49,8 +49,7 @@ Les étapes à suivre :
 	- Annoncer la date de clôture des inscriptions (une semaine avant)
 .
 
-3. ####Communication avec les inscrits et lancement des journées d'acceuil :
+3. #### Communication avec les inscrits et lancement des journées d'acceuil :
 	- Communiquer, au fur et à mesure, aux inscrits les détails de la procédure du recrutement.
 	- Communiquer le tableau des horaires d'acceuil au moins trois à quatre jours avant leur début.
 	- Rester accessible par e-mail.
-

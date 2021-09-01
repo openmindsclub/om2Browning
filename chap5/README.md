@@ -1,5 +1,5 @@
-##Chapitre 5: COM Interne
-###Objectifs du département 
+## Chapitre 5: COM Interne
+### Objectifs du département 
 
 - L'objectif principal du département est d'assurer la communication de l'information aux adhérents du club.
 Les adhérents doivent être au courant de toutes les activités pour que ces derniers puissent proposer leur aide là où ils le souhaitent.

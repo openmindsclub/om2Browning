@@ -1,4 +1,4 @@
-###Sponsoring
+### Sponsoring
 
 [CETTE PARTIE A ÉTÉ SUPPRIMÉE CAR PEU IMPORTANTE!]
 

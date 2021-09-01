@@ -1,4 +1,4 @@
-###Autorisation d'accès
+### Autorisation d'accès
 
 Les autorisations d'accès se divisent en deux grande catégories:
 
@@ -36,4 +36,3 @@ Monsieur, nos salutations les plus distinguées.
 Le template ainsi que des exemples des deux types de demande d'autorisation d'accès sont téléchargeables en format **odt** sur ces liens: [premier](https://raw.githubusercontent.com/SamyMe/om2Browning/master/odt/acces1.odt) , [deuxième](https://raw.githubusercontent.com/SamyMe/om2Browning/master/odt/acces2.odt).
 
 **NB: Avoir une autorisation d'accès pour des étrangers (nationalité non Algérienne) est une opération délicate qui doit suivre des règles plus stricte (dont, l'éventualité de contacter le ministère des affaires étrangères ou de l'enseignement supérieur)**
-

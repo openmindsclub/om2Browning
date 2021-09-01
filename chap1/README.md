@@ -13,15 +13,16 @@ Comme notre slogan le stipule, nous sommes convaincus que la science et la conna
 Il est strictement interdit aux membres du bureau de prendre part à des activités faisant la promotion de l'esprit **closed**. Il est aussi défendu de représenter une organisation basée sur un esprit non open source pendant le durée du mandat. Être à la tête du club et prendre part à ce genre d'activitée étant totalement contradictoire.
 
 ### Les valeurs des OpenMinded:
+
 - Ouverture d'esprit.
 - Partage.
 - Charité.
 - Détermination.
-- Respect. 
+- Respect.
 
 ### Les objectifs du club:
 
-- N°1 : produire des *Free and Open Source Culture Activists*.
+- N°1 : produire des **Free and Open Source Culture Activists**.
 - Promouvoir la philosophie Open Source à l'USTHB et en dehors sur le territoire national !
 - Former sur comment participer à un projet Open Source.
 - Développer des projets Open Source.

@@ -7,8 +7,7 @@ Les préparations pré-vote sont assurées par l'ancien bureau exécutif.
 Le président actuel, avec l'aide de son bureau, est le premier responsable du déroulement du vote. En cas d’absence, il doit désigner un remplaçant, et le déclarer.
 
 1. Préparation :
-	- Fixer une date/heure qui arrange le maximum d'anciens adhérents, et les communiquer au SDACS
-.
+	- Fixer une date/heure qui arrange le maximum d'anciens adhérents, et les communiquer au SDACS.
 	- Réserver la salle, ou nettoyer le local si le vote s'y déroule.
 	- Revoir les règles du vote si nécessaire (conditions de présentation et déroulement du vote)
 .
