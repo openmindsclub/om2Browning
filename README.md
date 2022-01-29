@@ -1,5 +1,7 @@
 # Team IT
 
+_Check out Legacy om2browning at the [archive](https://github.com/openmindsclub/om2Browning/tree/archive) branch._
+
 ## Table of Matters
 
 [1. Incubation Schedule: v2022](incubation/README.md)
