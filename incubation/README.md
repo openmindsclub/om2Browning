@@ -1,15 +1,16 @@
 # Incubation Program
 
-- Algorithmics Basics w/ Python: Aymen Khouas
-- Agile Methods: Mohamed Ait Amara
-- A Brief Introduction to AI: Ilies Chibane
-- Godot: Aymen
-- Arduino: Nada
-- PCB Circuit Imprimé : Mimi
-- CRUD Web App: Aymen Ghemam
-- Installation Linux; Installation Team ~
-- CRUD Mobile App w/ Flutter: Aymen Krioudj ~
-- Hands On Terminal: Alaeddine Boulefaat, Abdelhak Aissat (done)
-- Git/Github: Lilia Mehamli (done)
+## Table of Matter
 
-PS1: the (~) symbol refers to activities that will be done before the program starts and the (done) notation means they were already done, so no need for the organizer of incubations to take them into consideration.
+- Git/Github: Lilia Mehamli (done)
+- GNU/Linux Install Party: Subteam Linux & Troubleshooting (done)
+- Hands On Terminal (4 sessions): Alaeddine Boulefaat, Abdelhak Aissat (done)
+- CRUD Mobile App w/ Flutter: Aymen Krioudj (done)
+- Algorithmics Basics w/ Python (2 sessions): Hcn1 (done)
+- CRUD Web App (3 sessions): Aymen Ghemam, Mohamed Sadadou (done)
+- Programing with C++: Nassim Messadi
+- A Brief Introduction to AI: Ilies Chibane
+- How To Pitch Your Project: Oussama Seddiki
+- Arduino: Nada Tis
+- PCB Circuit Imprimé : Nada Tis
+- Godot: Mohamed Ait Amara
