@@ -1,12 +1,14 @@
-# Simple Node-Express API example
+# Registration-website example
 
-this projet was built as an example during a web dev course at https://www.openmindsclub.net.
+this projet was built as an example during a the webdev incubation
 
 ## Install dependecies
 
-### `npm i `
+use the following command to install the required dependecies:
 
-Remember that you should install node before doing that
+### `npm install`
+
+Remember that you should have NodeJS installed on your computer.
 
 ## Start the server
 
@@ -14,4 +16,4 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Make sure the server is running and open [http://localhost:3000](http://localhost:3000) on your browser.
