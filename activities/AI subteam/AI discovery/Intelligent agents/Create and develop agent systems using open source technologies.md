@@ -43,7 +43,7 @@
 
 | Name       | Programming language | Source                                                  | Description                                                                                                                          |
 |:----------:|:--------------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
-| SPADE      | Python               | [github](https://github.com/javipalanca/spade)          | Multiagent and Organizations Platform based on the instant messaging XMPP/Jabber technology                                          |
+| [SPADE](https://github.com/openmindsclub/om2Browning/blob/main/activities/AI%20subteam/AI%20tutorial/SPADE/Developing%20Multi-agent%20systems%20using%20SPADE.md)      | Python               | [github](https://github.com/javipalanca/spade)          | Multiagent and Organizations Platform based on the instant messaging XMPP/Jabber technology                                          |
 | JADE       | Java                 | [github](https://github.com/mru00/jade_agents)          | FIPA-compliant middleware, graphical debugging and deployment tools for multi agent systems                                          |
 | ActressMas | C#                   | [github](https://github.com/florinleon/ActressMas)      | Used for teaching multiagent protocols and algorithms. offers implementations of various popular multiagent protocols and algorithms |
 | Gama       | Java                 | [github](https://gama-platform.github.io/wiki/Projects) | Complete modeling and simulation development environment for building spatially explicit multiagent simulations                      |
