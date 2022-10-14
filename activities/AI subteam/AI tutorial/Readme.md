@@ -1,0 +1,1 @@
+AI Tutorial is a club activity where club members of OpenMindsClub create and share Tutorial about open source AI librairies in readme format to make it easier for people to understand how to use them and put the spotlight on some awesome libs that are overshadowed because of their lack of documentation. Because "What is not shared is lost"
