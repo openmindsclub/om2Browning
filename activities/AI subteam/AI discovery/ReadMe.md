@@ -35,3 +35,5 @@ Here are some subject that any interested member can pick :
 - Buisness intelligence
 
 - Big Data
+
+- The advantages of Linux in AI developement
