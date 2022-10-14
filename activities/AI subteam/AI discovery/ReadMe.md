@@ -29,3 +29,9 @@ Here are some subject that any interested member can pick :
 - Web Scrapping 
 
 - AI and algorithms in video games
+
+- Data science
+
+- Buisness intelligence
+
+- Big Data
