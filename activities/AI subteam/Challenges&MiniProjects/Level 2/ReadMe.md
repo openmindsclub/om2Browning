@@ -44,7 +44,8 @@ And there are many others so all you need to do is some little research on each 
 > 
 > Documentation : [TensorFlow Core](https://www.tensorflow.org/tutorials?hl=fr "https://www.tensorflow.org/tutorials?hl=fr")
 
-> Pytorch : [PyTorch for Deep Learning - Full Course / Tutorial - YouTube](https://www.youtube.com/watch?v=GIsg-ZUy0MY&t=0s&ab_channel=freeCodeCamp.org "https://www.youtube.com/watch?v=GIsg-ZUy0MY&t=0s&ab_channel=freeCodeCamp.org")   Documentation : [PyTorch documentation &mdash PyTorch 1.12 documentation](https://pytorch.org/docs/stable/index.html "https://pytorch.org/docs/stable/index.html")
+> Pytorch : [PyTorch for Deep Learning - Full Course / Tutorial - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke "https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke")   
+> Documentation : [PyTorch documentation &mdash PyTorch 1.12 documentation](https://pytorch.org/docs/stable/index.html "https://pytorch.org/docs/stable/index.html")
 
 You are not obligated to learn both one is an enough  I personally recommand PyTorch
 
@@ -52,7 +53,7 @@ You are not obligated to learn both one is an enough  I personally recommand PyT
   
   > [Reinforcement Learning Course - Full Machine Learning Tutorial](www.youtube.com/watch?v=ELE2_Mftqoc&t=0s&ab_channel=freeCodeCamp.org)
   
-  > Documentation : [Reinforcement Learning (DQN) Tutorial — PyTorch Tutorials 1.12.0+cu102 documentation](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+  > Documentation : [OpenAI Gym](https://platform.openai.com/docs/introduction)
 
 - Metaheuristics :
   
@@ -70,7 +71,8 @@ You are not obligated to learn both one is an enough  I personally recommand PyT
 > 
 > Documentation : https://spacy.io/usage/spacy-101/
 
-> NTLK : [NLTK with Python 3 for Natural Language Processing - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL") Documentation : [NLTK :: Natural Language Toolkit](https://www.nltk.org/ "https://www.nltk.org/")
+> NTLK : [NLTK with Python 3 for Natural Language Processing - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL") 
+> Documentation : [NLTK :: Natural Language Toolkit](https://www.nltk.org/ "https://www.nltk.org/")
 
 - Data mining :
   
