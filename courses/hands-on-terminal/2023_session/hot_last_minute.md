@@ -9,7 +9,7 @@ Hello as you can see i didn't have a proper presentation, so i'll just use markd
 
 	2. Linux  a UNIX like operating system which makes it very flexible, modular and developer friendly 
 
-	3. Linux “the kernel” is initially made by the Swedish programmer Linus Torvalds “just for fun” but after releasing it under the GPL license in 1993 it started being taken seriously and became the biggest collaborative work in the human history(i guess?)
+	3. Linux “the kernel” is initially made by the Finnish-American  programmer Linus Torvalds “just for fun” but after releasing it under the GPL license in 1993 it started being taken seriously and became the biggest collaborative work in the human history(i guess?)
 
 	 4. Linux is now the most popular operating system ever() , running on 100% of world’s super computers ,  97% of the servers , 75% of the phones and tablets , and it powers all the chrome-books and most of if not all embedded devices of the world 
 		 - Source : trust me bro
